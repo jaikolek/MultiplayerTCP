@@ -1,0 +1,13 @@
+C:\Kuliah\danang nitip bentar\Multiplayer Game\Multiplayer Game\bin\Debug\Multiplayer Game.exe.config
+C:\Kuliah\danang nitip bentar\Multiplayer Game\Multiplayer Game\bin\Debug\Multiplayer Game.exe
+C:\Kuliah\danang nitip bentar\Multiplayer Game\Multiplayer Game\bin\Debug\Multiplayer Game.pdb
+C:\Kuliah\danang nitip bentar\Multiplayer Game\Multiplayer Game\obj\Debug\Multiplayer Game.csproj.AssemblyReference.cache
+C:\Kuliah\danang nitip bentar\Multiplayer Game\Multiplayer Game\obj\Debug\Multiplayer Game.csproj.CoreCompileInputs.cache
+C:\Kuliah\danang nitip bentar\Multiplayer Game\Multiplayer Game\obj\Debug\Multiplayer Game.exe
+C:\Kuliah\danang nitip bentar\Multiplayer Game\Multiplayer Game\obj\Debug\Multiplayer Game.pdb
+D:\Kuliah\Semester 4\Arsitektur dan Jaringan Komputer\Multiplayer Game\Multiplayer Game\bin\Debug\Multiplayer Game.exe.config
+D:\Kuliah\Semester 4\Arsitektur dan Jaringan Komputer\Multiplayer Game\Multiplayer Game\bin\Debug\Multiplayer Game.exe
+D:\Kuliah\Semester 4\Arsitektur dan Jaringan Komputer\Multiplayer Game\Multiplayer Game\bin\Debug\Multiplayer Game.pdb
+D:\Kuliah\Semester 4\Arsitektur dan Jaringan Komputer\Multiplayer Game\Multiplayer Game\obj\Debug\Multiplayer Game.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 4\Arsitektur dan Jaringan Komputer\Multiplayer Game\Multiplayer Game\obj\Debug\Multiplayer Game.exe
+D:\Kuliah\Semester 4\Arsitektur dan Jaringan Komputer\Multiplayer Game\Multiplayer Game\obj\Debug\Multiplayer Game.pdb
